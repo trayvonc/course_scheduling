@@ -3,7 +3,6 @@
 ![Image text](https://github.com/trayvonc/course_scheduling/blob/master/resimg/1.png)
 ![Image text](https://github.com/trayvonc/course_scheduling/blob/master/resimg/2.png)
 ![Image text](https://github.com/trayvonc/course_scheduling/blob/master/resimg/3.png)
-![Image text](https://github.com/trayvonc/course_scheduling/blob/master/resimg/4.png)
 ![Image text](https://github.com/trayvonc/course_scheduling/blob/master/resimg/5.png)
 ![Image text](https://github.com/trayvonc/course_scheduling/blob/master/resimg/6.png)
 ![Image text](https://github.com/trayvonc/course_scheduling/blob/master/resimg/7.png)
